@@ -1,0 +1,8 @@
+prefix=/home/hwang/My_Code/robotics_research/gripper_controller/install
+
+Name: roboticsgroup_gazebo_plugins
+Description: Description of roboticsgroup_gazebo_plugins
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hwang/My_Code/robotics_research/gripper_controller/install/lib 
+Requires: roscpp gazebo_ros control_toolbox

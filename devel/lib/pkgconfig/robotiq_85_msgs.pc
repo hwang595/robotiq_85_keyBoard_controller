@@ -1,0 +1,8 @@
+prefix=/home/hwang/My_Code/robotics_research/gripper_controller/devel
+
+Name: robotiq_85_msgs
+Description: Description of robotiq_85_msgs
+Version: 0.0.1
+Cflags: -I/home/hwang/My_Code/robotics_research/gripper_controller/devel/include
+Libs: -L/home/hwang/My_Code/robotics_research/gripper_controller/devel/lib 
+Requires: message_runtime std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/hwang/My_Code/robotics_research/gripper_controller/install
+
+Name: si_utils
+Description: Description of si_utils
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hwang/My_Code/robotics_research/gripper_controller/install/lib 
+Requires: 
